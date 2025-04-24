@@ -8,7 +8,7 @@ Introduction to the Seebeck Effect and Coefficient
 
 The Seebeck effect, named in honor of the German physicist Thomas Johann Seebeck, constitutes a thermoelectric phenomenon wherein a temperature differential across a material gives rise to an electrical potential difference. The Seebeck Coefficient (S) quantifies this effect and is rigorously defined as the ratio of the induced voltage ($ \Delta V )tothetemperaturedifference( \Delta T $) across the material:
 
-$ $ S = - \frac{\Delta V}{\Delta T} $ $
+$ $ S = - \frac{\Delta V}/{\Delta T} $ $
 
 The conventional inclusion of the negative sign accounts for the direction of the resulting electric current relative to the direction of the temperature gradient. The Seebeck Coefficient stands as a critical parameter in the evaluation of the efficiency of thermoelectric materials, which find diverse applications in energy conversion, cooling systems, and the reclamation of waste heat.
 Experimental Setup and Methodology
